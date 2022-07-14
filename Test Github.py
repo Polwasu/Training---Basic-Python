@@ -1,2 +1,5 @@
 print('Hello World')
-print('Hello Github')
+
+print('What da hell is going on here?')
+
+print('Powered by Chobiz')
